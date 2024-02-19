@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CultureInfo_For_ToUpper_ToLower", "2-CultureInfo_For_ToUpper_ToLower\2-CultureInfo_For_ToUpper_ToLower.csproj", "{72BB8110-045E-46B6-B7A5-0BE06FA14054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72BB8110-045E-46B6-B7A5-0BE06FA14054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BB8110-045E-46B6-B7A5-0BE06FA14054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BB8110-045E-46B6-B7A5-0BE06FA14054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BB8110-045E-46B6-B7A5-0BE06FA14054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA068A8-4832-4633-BF99-A07BE2AEA562}
+	EndGlobalSection
+EndGlobal
