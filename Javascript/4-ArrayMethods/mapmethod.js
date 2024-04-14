@@ -1,4 +1,5 @@
-//Map methodu
+//--------------------MAP METHOD--------------------------
+
 //map() metodu, dizi içerisindeki tüm elemanları bir işlemden geçirmek için kullanılır. 
 //Her bir eleman tek tek işlenir, değerleri değiştirilebilir, geriye ne döndürüleceği belirlenebilir ve sonunda ise, işlemden geçen öğelerden oluşan bir dizi geriye döner.
 // ! Varsayılan diziyi değiştirmez.
@@ -10,7 +11,9 @@ let roots = numbers.map(num => Math.sqrt(num));
 console.log(roots); // [1, 2, 3]
 console.log(numbers); // [1, 4, 9]
 
+
 // ORNEK 2 : map ile return etme
+
 
 const users=[{
     name: 'Akdem',
@@ -33,11 +36,3 @@ const newUsers = users.map(user => {
 });
 
 console.log(newUsers)
-
-
-
-//filter methodu
-
-//reduce methodu
-
-//foreach methodu
